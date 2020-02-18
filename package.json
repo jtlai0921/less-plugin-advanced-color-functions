@@ -25,7 +25,7 @@
     "main": "lib/index.js",
 	"devDependencies": {
 		"less": ">2.1.0",
-		"diff": "^1.0"
+		"diff": "^4.0"
 	},
 	"scripts": {
 		"test": "node test"
